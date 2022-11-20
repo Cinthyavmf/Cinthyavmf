@@ -1,4 +1,4 @@
-## ¡Hola! Soy Cin 🤸‍♀️ 👩‍💻
+![Hi! I'm Cin](./Portada%20de%20Facebook%20con%20saludos%20de%20cumplea%C3%B1os%20para%20mujer%20virgo%20bohemio%20en%20rojo.png)
 
 # **CINTHYA MOLINA** 
 
