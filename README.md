@@ -3,7 +3,7 @@
 # **CINTHYA MOLINA** 
 
 ## Full Stack Developer
----
+
 #### ¡Hola!🙌 Soy Cinthya, mis pasiones siempre fueron la música y la matemática, pero hace ya un tiempo que descubrí otra gran pasión: el mundo IT. 💻
 #### Aprendí desarrollo Full Stack PERN en Henry. Amo aprender cosas nuevas relacionadas con distintas areas, me gusta mucho leer y soy muy curiosa. Siempre estoy dispuesta a recibir críticas para mejorar, me gusta mucho trabajar en equipo y liderar grupos.
 ---
