@@ -13,8 +13,6 @@
 </div>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinthyavmf](https://github.com/Cinthyavmf/github-readme-stats)
----
 ### 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐨:
 
 cinthyavmf@gmail.com || 📞+549 351 3840 389 || https://github.com/Cinthyavmf
