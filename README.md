@@ -15,4 +15,4 @@
 ---
 ### 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐨:
 
-cinthyavmf@gmail.com || 📞+549 351 3840 389 || https://github.com/Cinthyavmf
+cinthyavmf@gmail.com || 📞+549 351 3840 389 ||https://www.linkedin.com/in/cinthya-molina/
